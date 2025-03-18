@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    color: rgba(102, 102, 102, 0.85);
+
+}
+
+header {
+    padding: 28px 195px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+}
+
+#academy {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.data {
+    width: 545px;
+    margin-left: 175px;
+    padding: 76.7px 8px 93.69px 15px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-family: Sailec-Bold;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58.08px;
+    letter-spacing: 0.25px;
+    color: #4A4A4A;
+}
+
+p {
+    font-family: Titillium Web;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0%;
+}
+
+#academy img {
+    margin-right: 120px;
+}
